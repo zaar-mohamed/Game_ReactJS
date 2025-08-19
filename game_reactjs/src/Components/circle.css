@@ -1,0 +1,12 @@
+.game-circles{
+  width:100px;
+  height:100px;
+  border:1px solid black;
+  border-radius:50%;
+}
+.Player1{
+  background-color:blue
+}
+.Player2{
+  background-color:yellow
+}
